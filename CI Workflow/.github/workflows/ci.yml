@@ -1,0 +1,8 @@
+on: push
+jobs:
+ firts-job:
+  runs-on: windows-latest version
+  steps:
+   - run: node --version
+   - npm: npm --version
+
