@@ -1,4 +1,4 @@
-Assignment 11 reflects on setting up a CI/CD pipeline using GitHub Actions to automate testing, enforce branch protection
+Assignment 13 reflects on setting up a CI/CD pipeline using GitHub Actions to automate testing, enforce branch protection
 rules, and generate release artifacts.
 
 A CI/CD pipeline in GitHub automates the software development lifecycle, specifically the build, test, and deployment stages. 
